@@ -24,5 +24,5 @@ Mi pasatiempo favorito es la lectura 📚, y mi pasión se encuentra en la inter
 
 ## 📁 Estructura y asignaciones del repositorio
 
-Este repositorio muestra mi progreso técnico, códigos y tareas semanales desarrolladas durante el curso GCI World 2026:
+Este repositorio muestra mi progreso técnico, códigos y tareas semanales desarrolladas durante el curso GCI World 2026
 
