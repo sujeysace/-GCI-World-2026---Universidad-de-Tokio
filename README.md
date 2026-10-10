@@ -1,28 +1,27 @@
-# **GCI World2026 Universidad de Tokio**
-Ciencia de Datos e Inteligencia Artificial, organizado por el Laboratorio Matsuo-Iwasawa de la Universidad de Tokio
+# **GCI World 2026 - University of Tokyo**
+Data Science and Artificial Intelligence, organized by the Matsuo-Iwasawa Laboratory at the University of Tokyo
 
-¡Bienvenidos a mi repositorio oficial del programa **Global Consumer Intelligence (GCI) World 2026**, organizado por la Universidad de Tokio 🚀
-
-
-
-## 👩‍💻 Un poco sobre mi
-
-¡Hola! Soy Sujey Salinas de Honduras Graduada en **Economía** y actualmente cursando la **Maestría en Ciencias Actuariales y Financieras** en la Universidad Nacional Autónoma de Honduras (UNAH).
-
-Mi pasatiempo favorito es la lectura 📚, y mi pasión se encuentra en la intersección de las **ciencias actuariales, la economía, el análisis de datos y la programación**. Creo firmemente que el análisis cuantitativo y la inteligencia artificial pueden transformar la toma de decisiones financieras y la gestión de riesgos a nivel global.
+Welcome to my official repository for the **Global Consumer Intelligence (GCI) World 2026** program, organized by the University of Tokyo! 🚀
 
 ---
 
-## 🎯 Mi visión y mis objetivos
+## 👩‍💻 A little about me
 
-* 🎓 **Formación Avanzada:** Desarrollar habilidades sólidas en ciencia de datos, machine learning y modelos actuariales avanzados para aplicarlos en la economía y finanzas.
-* 📈 **Especialista Cuantitativa:** Fortalecer el manejo de herramientas como Python, R, SPSS y Power BI para el modelado de datos complejos.
-* 💡 **Innovación y Soluciones:** Aplicar el análisis de datos en proyectos reales de impacto económico, gestión de seguros y evaluación de riesgos.
-* 🌏 **Líder Global:** Representar con orgullo a Honduras en el programa GCI World 2026 mientras colaboro y conecto con profesionales y estudiantes de todo el mundo, incluyendo Japón.
+Hi! I'm Sujey Salinas from Honduras. I hold a Bachelor's degree in **Economics** and am currently pursuing a **Master's degree in Actuarial and Financial Sciences** at the National Autonomous University of Honduras (UNAH).
+
+My favorite hobby is reading 📚, and my passion lies at the intersection of **actuarial science, economics, data analysis, and programming**. I strongly believe that quantitative analysis and artificial intelligence can transform financial decision-making and risk management globally.
 
 ---
 
-## 📁 Estructura y asignaciones del repositorio
+## 🎯 My vision and goals
 
-Este repositorio muestra mi progreso técnico, códigos y tareas semanales desarrolladas durante el curso GCI World 2026
+- 🎓 **Advanced Training:** Develop solid skills in data science, machine learning, and advanced actuarial models to apply them in economics and finance.
+- 📈 **Quantitative Specialist:** Strengthen my proficiency in tools like Python, R, SPSS, and Power BI for complex data modeling.
+- 💡 **Innovation and Solutions:** Apply data analysis to real-world projects with economic impact, insurance management, and risk evaluation.
+- 🌏 **Global Leader:** Proudly represent Honduras in the GCI World 2026 program while collaborating and connecting with professionals and students from around the world, including Japan.
 
+---
+
+## 📁 Repository structure and assignments
+
+This repository showcases my technical progress, code, and weekly assignments developed during the GCI World 2026 course.
