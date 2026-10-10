@@ -1,4 +1,4 @@
-# -GCI-World-2026---Universidad-de-Tokio
+# **GCI World2026 Universidad de Tokio**
 Ciencia de Datos e Inteligencia Artificial, organizado por el Laboratorio Matsuo-Iwasawa de la Universidad de Tokio
 
 ¡Bienvenidos a mi repositorio oficial del programa **Global Consumer Intelligence (GCI) World 2026**, organizado por la Universidad de Tokio 🚀
