@@ -5,7 +5,7 @@ Ciencia de Datos e Inteligencia Artificial, organizado por el Laboratorio Matsuo
 
 
 
-## 👩‍💻 Un poco de mi
+## 👩‍💻 Un poco sobre mi
 
 ¡Hola! Soy Sujey Salinas de Honduras Graduada en **Economía** y actualmente cursando la **Maestría en Ciencias Actuariales y Financieras** en la Universidad Nacional Autónoma de Honduras (UNAH).
 
